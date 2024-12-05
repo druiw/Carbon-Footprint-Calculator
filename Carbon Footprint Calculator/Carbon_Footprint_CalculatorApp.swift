@@ -11,7 +11,7 @@ import SwiftUI
 struct Carbon_Footprint_CalculatorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
