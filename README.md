@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/f7e8ecce-09e1-48cb-971c-16e156ee0a2c
 
 ## 🔋 Purpose 
 
-This project was developed as part of the **SES 141: Energy in Everyday Life** course. The goal is to understand the environmental impact of energy consumption and transportation, and provide users with a tool to calculate and reduce their carbon footprint. The app is designed to help users make informed decisions about their daily energy use and travel habits, ultimately contributing to a more sustainable lifestyle.
+This project was developed as my "Design Project" for my **SES 141: Energy in Everyday Life** course. The goal is to understand the environmental impact of energy consumption and transportation, and provide users with a tool to calculate and reduce their carbon footprint. The app is designed to help users make informed decisions about their daily energy use and travel habits, ultimately contributing to a more sustainable lifestyle.
 
 ## ✨ Features
 
